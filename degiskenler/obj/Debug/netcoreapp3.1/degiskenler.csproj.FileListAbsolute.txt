@@ -1,0 +1,13 @@
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.exe
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.deps.json
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.runtimeconfig.json
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.runtimeconfig.dev.json
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.dll
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.pdb
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.csprojAssemblyReference.cache
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.AssemblyInfoInputs.cache
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.AssemblyInfo.cs
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.dll
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.pdb
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.genruntimeconfig.cache

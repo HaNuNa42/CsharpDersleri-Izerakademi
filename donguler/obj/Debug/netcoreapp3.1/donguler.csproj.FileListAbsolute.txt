@@ -1,0 +1,13 @@
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\bin\Debug\netcoreapp3.1\donguler.exe
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\bin\Debug\netcoreapp3.1\donguler.deps.json
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\bin\Debug\netcoreapp3.1\donguler.runtimeconfig.json
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\bin\Debug\netcoreapp3.1\donguler.runtimeconfig.dev.json
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\bin\Debug\netcoreapp3.1\donguler.dll
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\bin\Debug\netcoreapp3.1\donguler.pdb
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\obj\Debug\netcoreapp3.1\donguler.csproj.CoreCompileInputs.cache
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfoInputs.cache
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfo.cs
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\obj\Debug\netcoreapp3.1\donguler.dll
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\obj\Debug\netcoreapp3.1\donguler.pdb
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\obj\Debug\netcoreapp3.1\donguler.genruntimeconfig.cache
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\donguler\obj\Debug\netcoreapp3.1\donguler.csprojAssemblyReference.cache

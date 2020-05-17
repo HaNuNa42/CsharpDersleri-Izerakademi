@@ -1,0 +1,13 @@
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\bin\Debug\netcoreapp3.1\kosulluIfadeler.exe
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\bin\Debug\netcoreapp3.1\kosulluIfadeler.deps.json
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\bin\Debug\netcoreapp3.1\kosulluIfadeler.runtimeconfig.json
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\bin\Debug\netcoreapp3.1\kosulluIfadeler.runtimeconfig.dev.json
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\bin\Debug\netcoreapp3.1\kosulluIfadeler.dll
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\bin\Debug\netcoreapp3.1\kosulluIfadeler.pdb
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\obj\Debug\netcoreapp3.1\kosulluIfadeler.csproj.CoreCompileInputs.cache
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\obj\Debug\netcoreapp3.1\kosulluIfadeler.AssemblyInfoInputs.cache
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\obj\Debug\netcoreapp3.1\kosulluIfadeler.AssemblyInfo.cs
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\obj\Debug\netcoreapp3.1\kosulluIfadeler.dll
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\obj\Debug\netcoreapp3.1\kosulluIfadeler.pdb
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\obj\Debug\netcoreapp3.1\kosulluIfadeler.genruntimeconfig.cache
+C:\Users\parthenia\Desktop\csharp eğitimi izerakademi\csharpegitimi\kosulluIfadeler\obj\Debug\netcoreapp3.1\kosulluIfadeler.csprojAssemblyReference.cache
